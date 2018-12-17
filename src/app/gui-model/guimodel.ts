@@ -339,15 +339,6 @@ export class GuiModel {
 							"form": "AddActivityForm"
 							 }
 						    },
-						    {
-							"type": "newButton",
-							"name": "editActivity",
-							"icon": "fa-calendar",
-							"color": "pink",
-							"form": {
-							"form": "AddActivityForm"
-							 }
-						    },
 							{
 							"type": "list",
 							"icon": "fa-calendar",
