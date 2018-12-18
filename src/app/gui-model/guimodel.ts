@@ -350,13 +350,14 @@ export class GuiModel {
 								}
                             },
 							
-						   ]
-				},
-            ]
+						]
+				    },
+         		]
+           }
     };
 
 
     get guiModel() {
         return this._guiModel;
-    };
+    }
 }
