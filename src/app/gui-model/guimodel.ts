@@ -323,7 +323,7 @@ export class GuiModel {
 								}
                             },
 						   ]
-			    }
+			    },
 				{
 					"id": "activitysspage",
 						  "elementList": [
